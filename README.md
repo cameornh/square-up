@@ -24,23 +24,23 @@ Your function will receive one argument, `game_state`, which is a Python diction
   "available_moves": [(r,c,o), ...]  # A list of all valid moves you can make
 }
 ```
-To play two players against each other, move into the 'player' directory and run this command: 
+To play two players against each other, move into the 'player' directory and run this command:  
 `python ../game_match.py <player1_file.py> <player2_file.py> -r ROUNDS -s SIZE`
 
 The '--rounds' flag ('-r') is optional and defaults to 20. Whatever you change it to should be an even number
 The '--size' flag ('-s') is also optional and defaults to 2x2
-e.g. if you want to run a match against greedy.py and random.py for 20 rounds on a 2x2 board:
+e.g. if you want to run a match against greedy.py and random.py for 20 rounds on a 2x2 board:  
 `python ../game_match.py greedy.py random.py`
 
-If you want to run a match against greedy.py and greedy.py for 40 rounds on a 13x13 board:
+If you want to run a match against greedy.py and greedy.py for 40 rounds on a 13x13 board:  
 `python ../game_match.py greedy.py greedy.py -r 40 -s 13x13`
 
-If you're confused about the arguments of game_match.py, you can run it with a '--help' flag ('-h'). Assuming you're in the 'player' directory:
+If you're confused about the arguments of game_match.py, you can run it with a '--help' flag ('-h'). Assuming you're in the 'player' directory:  
 `python ../game_match.py -h`
 
-If you get an error that looks like this:
+If you get an error that looks like this:  
 `python: can't open file '...game_match.py': [Errno 2] No such file or directory`
-make sure you're in the 'player' directory first:
+make sure you're in the 'player' directory first:  
 `cd player`
 
 I was thinking about writing a file to automatically run a tournament of all the players. If this is something that interests you, feel free to submit a pull request
