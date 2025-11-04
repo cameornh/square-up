@@ -29,8 +29,8 @@ Your function will receive one argument, `game_state`, which is a Python diction
 To play two players against each other, move into the 'player' directory and run this command:  
 `python ../game_match.py <player1_file.py> <player2_file.py> -r ROUNDS -s SIZE`
 
-The '--rounds' flag ('-r') is optional and defaults to 20. Whatever you change it to should be an even number
-The '--size' flag ('-s') is also optional and defaults to 2x2
+The '--rounds' flag ('-r') is optional and defaults to 20. Whatever you change it to should be an even number  
+The '--size' flag ('-s') is also optional and defaults to 2x2  
 e.g. if you want to run a match against greedy.py and random.py for 20 rounds on a 2x2 board:  
 `python ../game_match.py greedy.py random.py`
 
