@@ -23,7 +23,7 @@ Your function will receive one argument, `game_state`, which is a Python diction
   "your_player_id": 1 or 2,          # Your assigned player number for this game
   "available_moves": [(r,c,o), ...]  # A list of all valid moves you can make
 }
-
+```
 To play two players against each other, move into the 'player' directory and run this command: 
 `python ../game_match.py <player1_file.py> <player2_file.py> -r ROUNDS -s SIZE`
 
