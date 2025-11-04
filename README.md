@@ -24,6 +24,8 @@ Your function will receive one argument, `game_state`, which is a Python diction
   "available_moves": [(r,c,o), ...]  # A list of all valid moves you can make
 }
 ```
+
+## Help
 To play two players against each other, move into the 'player' directory and run this command:  
 `python ../game_match.py <player1_file.py> <player2_file.py> -r ROUNDS -s SIZE`
 
@@ -43,4 +45,5 @@ If you get an error that looks like this:
 make sure you're in the 'player' directory first:  
 `cd player`
 
+## Note
 I was thinking about writing a file to automatically run a tournament of all the players. If this is something that interests you, feel free to submit a pull request
