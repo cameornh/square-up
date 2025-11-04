@@ -39,7 +39,7 @@ If you're confused about the arguments of game_match.py, you can run it with a '
 `python ../game_match.py -h`
 
 If you get an error that looks like this:  
-`python: can't open file '...game_match.py': [Errno 2] No such file or directory`
+`python: can't open file '...game_match.py': [Errno 2] No such file or directory`  
 make sure you're in the 'player' directory first:  
 `cd player`
 
