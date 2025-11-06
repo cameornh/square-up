@@ -8,7 +8,7 @@ The goal is to create a Python script that plays the game of Dots and Boxes. You
 2.  In this file, you must define a single function with the exact signature: `def make_move(game_state):`
 3.  Write your logic inside this function to decide which line to draw
 4.  Your function must return a single move as a tuple: `(row, col, orientation)`
-5.  Email me your file at crh45194@uga.edu (you can do this at any point in the future and I'll add it to the repo)
+5.  Email me your file at crhalaby652@gmail.com (you can do this at any point in the future and I'll add it to the repo)
 
 ## The `make_move` function
 
