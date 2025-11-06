@@ -47,7 +47,7 @@ make sure you're in the 'player' directory first:
 `cd player`
 
 ## Tournament Rules
-The players will compete against each other player for 100 rounds on a 5x5 board. The total number of match wins will be added to the leaderboard.
+The players will compete against each other player for 20 rounds on a 2x2 board. The total number of match wins will be added to the leaderboard.
 
 ## Leaderboard (subject to change)
 ```
