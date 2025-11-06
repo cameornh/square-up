@@ -49,5 +49,18 @@ make sure you're in the 'player' directory first:
 ## Tournament Rules
 The players will compete against each other player for 100 rounds on a 5x5 board. The total number of match wins will be added to the leaderboard.
 
+## Leaderboard (subject to change)
+Rank  | Player                | Author               | Wins  | Losses | Draws
+---------------------------------------------------------------------------------
+1     | charmer.py            | Chaz                 | 7     | 0      | 1    
+2     | bots_and_doxes.py     | Dom                  | 7     | 1      | 0    
+3     | onionman.py           | Alex                 | 6     | 1      | 1    
+4     | never_three.py        | Chaz                 | 5     | 3      | 0    
+5     | dbtx.py               | Nikhil               | 3     | 5      | 0    
+6     | tomatoman.py          | Alex                 | 3     | 4      | 1    
+7     | greedy.py             | Cameron              | 2     | 5      | 1    
+8     | romanescoman.py       | Alex                 | 1     | 7      | 0    
+9     | random.py             | Cameron              | 0     | 8      | 0 
+
 ### Note
 I was thinking about writing a file to visualize the tournament results. If this is something that interests you, feel free to submit a pull request
