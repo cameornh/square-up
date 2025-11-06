@@ -65,4 +65,4 @@ Rank  | Player                | Author               | Wins  | Losses | Draws
 ```
 
 ### Note
-I was thinking about writing a file to visualize the tournament results. If this is something that interests you, feel free to submit a pull request
+I was thinking about writing a file to visualize the tournament results (something more visually appealing than an ASCII table). If this is something that interests you, feel free to submit a pull request
