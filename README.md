@@ -47,7 +47,7 @@ make sure you're in the 'player' directory first:
 `cd player`
 
 ## Tournament Rules
-The players will compete against each other player for 100 rounds on a 5x5 board. This will be repeated 3 times and the total number of match wins will be added to the leaderboard.
+The players will compete against each other player for 100 rounds on a 5x5 board. The total number of match wins will be added to the leaderboard.
 
 ### Note
 I was thinking about writing a file to automatically run a tournament of all the players. If this is something that interests you, feel free to submit a pull request
