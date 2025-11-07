@@ -53,15 +53,16 @@ The players will compete against each other player for 20 rounds on a 2x2 board.
 ```
 Rank  | Player                | Author               | Wins  | Losses | Draws
 ---------------------------------------------------------------------------------
-1     | charmer.py            | Chaz                 | 7     | 0      | 1    
-2     | bots_and_doxes.py     | Dom                  | 7     | 1      | 0    
-3     | onionman.py           | Alex                 | 6     | 1      | 1    
-4     | never_three.py        | Chaz                 | 5     | 3      | 0    
-5     | dbtx.py               | Nikhil               | 3     | 5      | 0    
-6     | tomatoman.py          | Alex                 | 3     | 4      | 1    
-7     | greedy.py             | Cameron              | 2     | 5      | 1    
-8     | romanescoman.py       | Alex                 | 1     | 7      | 0    
-9     | random.py             | Cameron              | 0     | 8      | 0 
+1     | charmer.py            | Chaz                 | 8     | 0      | 1    
+2     | onionman.py           | Alex                 | 7     | 1      | 1    
+3     | never_three.py        | Chaz                 | 7     | 2      | 0    
+4     | trade.py              | Joseph               | 6     | 3      | 0    
+4     | bots_and_doxes.py     | Dom                  | 6     | 3      | 0    
+6     | tomatoman.py          | Alex                 | 4     | 5      | 0
+7     | dbtx.py               | Nikhil               | 3     | 6      | 0    
+8     | greedy.py             | Cameron              | 2     | 7      | 0    
+9     | romanescoman.py       | Alex                 | 1     | 8      | 0    
+10    | random.py             | Cameron              | 0     | 9      | 0 
 ```
 
 ### Note
